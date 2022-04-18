@@ -11,6 +11,10 @@ After We Learn Set of Topics Like:
 1. HTML5
 1. CSS3
 1. BOOTSTRAP
+1. Wordpress
+1. Git
+1. SEO
+
 
 WE DO IT!
 
@@ -25,13 +29,10 @@ E-commerce website(Bicycle Shop) using WordPress The user can add product to car
 * We took into account that the page is responsive
 
 1. Project Wireframe
-   * [Wireframe Link](https://github.com/bahaa12edeen/Project1/blob/main/mockup/wirframe-%231.pdf)
+   * [Wireframe Link](https://github.com/bahaa12edeen/Project3/tree/main/pro3-wieframe)
 
 1. Project Mockup
-   * [Mockup Link](https://miro.com/app/board/uXjVOGBBW6g=/?invite_link_id=223803694188)
+   * [Mockup Link](https://github.com/bahaa12edeen/Project3/tree/main/pro3-mocup)
 
 1. Project Folder
-   * [Repo Link](https://github.com/bahaa12edeen/Project1.git)
-
-1. Live Code
-   * [Live Link](https://bahaa12edeen.github.io/Project1/)
+   * [Repo Link](https://github.com/bahaa12edeen/Project3.git)
