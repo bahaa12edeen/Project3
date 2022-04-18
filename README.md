@@ -1,6 +1,6 @@
 # Project3 - Bicycle Shop
 ## Hi My Name is **Bahaa Al-deen**
-![Markdown Logo](wp-project\wp-content\uploads\2021\04\2004-2.jpg)
+![Markdown Logo](./wp-project\wp-content\uploads\2021\04\2004-2.jpg)
 
 
 ***
